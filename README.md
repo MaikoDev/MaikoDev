@@ -4,24 +4,18 @@
 ### **ABOUT ME**
 I love to pressing my keyboard and make silicon wafers do math.
 
-🔭 I’m currently working on:
-```
+1. I’m currently working on 🔭:
     * Unity Projects (VRC)
     * TrueCount (Inventory Management)
     * Engy Rewrite (OpenGL based 2D/3D Engine)
-```
 
-🌱 I’m currently learning:
-```
+2. I’m currently learning 🌱:
     * HLSL
     * Guassian Splats
-```
 
-📞 How to reach me:
-```
+3. How to reach me 📞:
     * phyonaung32@yahoo.com
     * maikodev (discord)
-```
 
 <!--
 **MaikoDev/MaikoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
