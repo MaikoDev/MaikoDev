@@ -2,7 +2,7 @@
 ## Welcome to my Akasha of Madness
 
 ### **ABOUT ME**
-I love to pressing my keyboard and make silicon wafers do math.
+I love to press my keyboard and make silicon wafers do math.
 
 1. I’m currently working on 🔭:
     * Unity Projects (VRC)
