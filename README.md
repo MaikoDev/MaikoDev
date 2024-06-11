@@ -14,7 +14,7 @@ I love to press my keyboard and make silicon wafers do math.
     * Guassian Splats
 
 3. How to reach me 📞:
-    * phyonaung32@yahoo.com
+    * pnaungdev@gmail.com
     * maikodev (discord)
 
 <!--
